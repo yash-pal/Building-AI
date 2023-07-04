@@ -2,13 +2,13 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Building AI
 
-Final project for the Building AI course
+The final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+The project is about the creation of AI that is to be used as a Service (AI as a service). To be used in multiple aspects of daily life routines with efficiency.
 
 
 ## Background
